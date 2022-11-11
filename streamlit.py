@@ -42,7 +42,7 @@ def main():
         )
         
         if use_example_file:
-            uploaded_file = "C:\\Users\\krish\\Documents\\Northeastern University\\Fall'22\\INFO_7374_Algorithmic_Digital_Marketing\\Assignment-3\\sample-orders.csv"
+            uploaded_file = "data/sample-orders.csv"
             rfm(uploaded_file)
             
             # About RFM
@@ -174,7 +174,7 @@ def main():
         # and pass them down to the next if block
         
         if use_example_file_ab:
-            uploaded_file= "C:\\Users\\krish\\Documents\\Northeastern University\\Fall'22\\INFO_7374_Algorithmic_Digital_Marketing\\Assignment-3\\AdSmartABdata.csv"
+            uploaded_file= "data/AdSmartABdata.csv"
                         
             df = pd.read_csv(uploaded_file)
             html_temp_title = """
