@@ -20,7 +20,6 @@ botocore==1.23.24
 cached-property==1.5.2
 cachetools==4.2.4
 coverage==6.3.2
-cryptography @ file:///D:/bld/cryptography_1639699494546/work
 cssselect==1.1.0
 diagrams==0.21.1
 ecdsa==0.17.0
