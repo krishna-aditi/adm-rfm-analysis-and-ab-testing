@@ -14,7 +14,7 @@ import pandas as pd
 
 plt.rcParams['font.family'] = 'Verdana'
 plt.rcParams.update({'font.size': 30})
-plt.style.use('ggplot')
+plt.style.use('dark_background')
 
 def main():
     # st. set_page_config(layout="wide")
@@ -147,8 +147,8 @@ def main():
             # st.markdown("")
             sns.catplot(x="Orders", kind="count", data=rfm_analysis, palette = 'crest')
             # plt.title('# Customers vs. # Orders (x)',fontdict={'fontsize': fontsize_title})
-            plt.xlabel('# Customers', fontdict={'fontsize': fontsize_label})
-            plt.ylabel('# Orders',fontdict={'fontsize': fontsize_label})
+            plt.xlabel('# Orders', fontdict={'fontsize': fontsize_label})
+            plt.ylabel('# Customers',fontdict={'fontsize': fontsize_label})
             # Set size for plot
             fig = plt.gcf()
             fig.set_size_inches(20,10)
