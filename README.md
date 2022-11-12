@@ -5,8 +5,8 @@ Build a Streamlit web app for:
 2. A/B Testing on Smart Ads dataset
 
 ### Links:
-1. **Streamlit link:** https://krishna-aditi-adm-rfm-analysis-and-ab-testing-streamlit-flmnvq.streamlit.app/
-2. **Codelabs link:** https://codelabs-preview.appspot.com/?file_id=1tevQCkhCfVulkGcnAV2yiv1gnIiX1DccDKaaWCD5aL0#0
+1. **Streamlit link:**https://krishna-aditi-adm-rfm-analysis-and-ab-testing-streamlit-flmnvq.streamlit.app/
+2. **Codelabs link:**https://codelabs-preview.appspot.com/?file_id=1tevQCkhCfVulkGcnAV2yiv1gnIiX1DccDKaaWCD5aL0#0
 
 ### References
 1. https://joaocorreia.io/blog/rfm-analysis-increase-sales-by-segmenting-your-customers.html
